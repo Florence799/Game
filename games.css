@@ -1,0 +1,18 @@
+body{
+    
+    text-align: center;
+    background-color: cyan;
+}
+button{
+    border-color: brown;
+    box-shadow: 2px 2px;
+}
+#guessInput{
+    border-color: brown;
+    box-shadow: 2px 2px;
+    
+}
+h2{
+    text-shadow: 3px 3px white;
+    color:black;
+}
